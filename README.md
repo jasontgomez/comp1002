@@ -1,2 +1,2 @@
 # comp1002
-comp1002 - testing github
+comp1002 - testing GitHub
